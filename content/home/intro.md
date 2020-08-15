@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear in.
 
-title = "DevOps Mantra - A simpler introduction to tools and life in a devops world"
-subtitle = "Subhash Kumar"
+title = "DevOps Mantra "
+subtitle = "My learnings in the DevOps World"
 
 [design.background]
   # Background color.
